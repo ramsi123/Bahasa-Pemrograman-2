@@ -1,4 +1,4 @@
-package tugasClassContainer;
+package sourceCodeProgram;
 
 import java.util.Scanner;
 //Budi membeli sate dan soto

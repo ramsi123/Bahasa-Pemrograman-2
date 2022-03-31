@@ -1,4 +1,4 @@
-package tugasClassContainer;
+package sourceCodeProgram;
 
 public class cMakanan {
     private String nama;
